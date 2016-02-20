@@ -12,3 +12,6 @@ It takes up to 3 external IDs and content text to be added to the Factom Blockch
 
 This is not a wallet.  It does not keep track of your transactions.  You need to write down your entry hashes to find them at a later time.    It is an example of how to use java to program agianst factom.
 
+FactomSimpleGUI.jar is an executable jar file.  With java on your system, run:
+
+java -jar FactomSimpleEntryGUI.jar
