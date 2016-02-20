@@ -2,6 +2,11 @@
  * Copyright 2016 Factom Foundation
  * Use of this source code is governed by the MIT
  * license that can be found in the LICENSE file.
+ * 
+ * This project uses json.org for son handling.
+ * The license includes this restriction: 
+ * "The software shall be used for good, not evil." If your conscience cannot live with that, then choose a different package.
+ * Thank you json.org developers
  */
 
 package FactomProject.simpleGui;

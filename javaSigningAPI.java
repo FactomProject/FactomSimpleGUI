@@ -2,6 +2,12 @@
  * Copyright 2016 Factom Foundation
  * Use of this source code is governed by the MIT
  * license that can be found in the LICENSE file.
+ * 
+ * A special thank you to str4d on github for the creative commons licensing on his 25519 encryption
+ * https://github.com/str4d/ed25519-java
+ * 
+ * 
+ * 
  */
 
 package FactomProject.simpleGui;
